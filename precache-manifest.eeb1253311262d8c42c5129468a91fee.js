@@ -16,7 +16,7 @@ self.__precacheManifest = [
     "url": "/Gurmukh-sahota.github.io/static/css/main.310aa65d.chunk.css"
   },
   {
-    "revision": "39baf4da94f0587ccc842ce27762a4ac",
+    "revision": "eda4da4e4f9c25cfb767f679e6d91b36",
     "url": "/Gurmukh-sahota.github.io/index.html"
   }
 ];

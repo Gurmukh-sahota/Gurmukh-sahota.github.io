@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Gurmukh-sahota.github.io/precache-manifest.450e93d328f695ca353ed6a762d88736.js"
+  "/Gurmukh-sahota.github.io/precache-manifest.eeb1253311262d8c42c5129468a91fee.js"
 );
 
 workbox.clientsClaim();
