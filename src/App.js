@@ -49,7 +49,7 @@ const App = props => {
       <DetailsWrapper>
         <Name>Gurmukh Singh Sahota</Name>
         <AnimatedSpacer></AnimatedSpacer>
-        <JobTitle>Full Stack Developer</JobTitle>
+        <JobTitle>Leader &amp; Full Stack Developer</JobTitle>
       </DetailsWrapper>
     </MainContainer>
   )
